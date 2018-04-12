@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER Renato Orgito
+MAINTAINER Haoling
 
 COPY run.sh /run.sh
 RUN chmod 0755 /run.sh
